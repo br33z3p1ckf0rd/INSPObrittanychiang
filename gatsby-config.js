@@ -5,7 +5,7 @@ module.exports = {
     title: 'Breeze Pickford',
     description:
       'Breeze Pickford is an aspiring software engineer / sophomore USC student who builds inclusive innovative products and digital experiences.',
-    siteUrl: 'https://breezepickford.com', // No trailing slash allowed!
+    siteUrl: 'br33z3p1ckf0rd.github.io.', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     //I dont have twitter ... twitterUsername: '@breezepickford',
   },
